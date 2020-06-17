@@ -1,0 +1,44 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #f6f8f9
+}
+.desktop2row0 {
+  display: flex;
+  margin-left: 12.291666666666666vw;
+  margin-top: 25.2vh;
+  width: 75.48611111111111vw;
+  flex-wrap: wrap
+}
+.style2 {
+  background-color: red;
+  margin-left: 0;
+  width: 22.22222222222222vw;
+  min-width: 213.33333333333334px;
+  height: 50.486111111111114vw;
+  z-index: 1
+}
+.style1 {
+  border-left: .1388888888888889vw solid #ebeded;
+  border-right: .1388888888888889vw solid #ebeded;
+  border-top: .1388888888888889vw solid #ebeded;
+  border-bottom: .1388888888888889vw solid #ebeded;
+  margin-left: 4.861178927951389vw;
+  width: .2777777777777778vw;
+  min-width: 2.6666666666666665px;
+  height: 50.763888888888886vw;
+  z-index: 0
+}
+.style3 {
+  background-color: #01f;
+  margin-left: 4.861043294270833vw;
+  width: 43.541666666666664vw;
+  min-width: 418px;
+  height: 50.486111111111114vw;
+  z-index: 2;
+  flex-grow: 1
+}
+.breakpoint-0 {
+  display: block
+}
